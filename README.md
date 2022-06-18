@@ -6,6 +6,7 @@ https://user-images.githubusercontent.com/32792538/174428254-1a00061c-cde9-4ec1-
 ### To do: 
 - [ ] sending notification about what a car did
 - [ ] improve code performance
+- [ ] move the camera to the corner of building
 
 
 
