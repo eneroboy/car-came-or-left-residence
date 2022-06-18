@@ -6,3 +6,6 @@ A project using a learned AI model to detect what a car did, came or left reside
 ### To do: 
 - [ ] sending notification about what a car did
 - [ ] improve code performance
+
+
+![](car_detection.gif)
