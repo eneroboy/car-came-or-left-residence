@@ -8,4 +8,4 @@ A project using a learned AI model to detect what a car did, came or left reside
 - [ ] improve code performance
 
 
-![](car_detection.gif)
+![](car_detection.mp4)
