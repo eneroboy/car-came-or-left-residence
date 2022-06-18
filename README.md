@@ -7,5 +7,4 @@ A project using a learned AI model to detect what a car did, came or left reside
 - [ ] sending notification about what a car did
 - [ ] improve code performance
 
-
-![](car_detection.mp4)
+<video src='car_detection.mp4' width='240'/>
